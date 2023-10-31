@@ -1,0 +1,13 @@
+{
+    "developement" : {
+        "port" : 8000,
+        "username" : "momir_iliev", 
+        "password" : "semosmongodbmodule2023", 
+        "jwt" : "secretKey"
+    }, 
+    "production" : {
+        "port" : 8080,
+        "username" : "admin", 
+        "password" : "admin123"
+    }
+}
